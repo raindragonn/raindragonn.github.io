@@ -67,7 +67,7 @@ yat:
 # google_analytics: [Tracking ID]
 
 # If you want to generate website sitemap, you can set true
-# sitemap: false
+sitemap: true
 google-site-verification: n4nDoVzSGkJACxFuSVH5OO604A2H-Hj6pNlmsHR-lm4
 
 # If you want to change site language, you can set lang option
@@ -166,8 +166,8 @@ banner:
 # paginate: 5
 
 # Disqus comments
-# disqus:
-#   shortname: "Your Disqus username"
+disqus:
+  shortname: "raindragonn"
 
 # Gitment comments
 # gitment:
