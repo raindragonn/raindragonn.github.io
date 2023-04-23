@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://raindragonn.github.io/sitemap.xml
