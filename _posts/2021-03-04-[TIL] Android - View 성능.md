@@ -2,7 +2,7 @@
 layout: "post"
 title: "[TIL] Android - View 성능 올리기"
 subtitle: "Android 성능 개선"
-author: "raindragon"
+author: "raindragonn"
 banner:
   image: "/assets/images/base/banner.jpg"
   opacity: 0.618

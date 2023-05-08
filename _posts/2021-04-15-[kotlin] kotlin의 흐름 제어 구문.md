@@ -3,7 +3,7 @@ layout: "post"
 title: "[kotlin] kotlin의 흐름 제어 구문"
 subtitle: "if, when, for, while"
 date:       2021-04-15
-author: "raindragon"
+author: "raindragonn"
 banner:
   image: "/assets/images/base/banner.jpg"
   opacity: 0.618

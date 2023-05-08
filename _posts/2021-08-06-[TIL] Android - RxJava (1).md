@@ -3,7 +3,7 @@ layout: "post"
 title: "[TIL] Android - RxJava (1)"
 subtitle: "ReactiveX"
 date:       2021-08-09
-author: "raindragon"
+author: "raindragonn"
 banner:
   image: "/assets/images/base/banner.jpg"
   opacity: 0.618

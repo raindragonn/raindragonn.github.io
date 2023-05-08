@@ -3,7 +3,7 @@ layout: "post"
 title: "[TIL]Android - BuildConfig 상수 추가"
 subtitle: "BuildConfig"
 date:       2021-05-31
-author: "raindragon"
+author: "raindragonn"
 banner:
   image: "/assets/images/base/banner.jpg"
   opacity: 0.618

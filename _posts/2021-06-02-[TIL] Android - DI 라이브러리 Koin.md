@@ -3,7 +3,7 @@ layout: "post"
 title: "[TIL] Android - DI 라이브러리 Koin"
 subtitle: ""
 date:       2021-06-02
-author: "raindragon"
+author: "raindragonn"
 banner:
   image: "/assets/images/base/banner.jpg"
   opacity: 0.618

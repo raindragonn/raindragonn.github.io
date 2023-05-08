@@ -2,7 +2,7 @@
 layout: "post"
 title: "[Android] Android Context란?"
 subtitle: "Android Context"
-author: "raindragon"
+author: "raindragonn"
 banner:
   image: "/assets/images/base/banner.jpg"
   opacity: 0.618

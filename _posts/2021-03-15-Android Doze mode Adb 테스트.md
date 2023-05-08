@@ -2,7 +2,7 @@
 layout: "post"
 title: "[Android] Adb 이용하여 Doze Mode 진입"
 subtitle: "Doze Mode 명령어"
-author: "raindragon"
+author: "raindragonn"
 banner:
   image: "/assets/images/base/banner.jpg"
   opacity: 0.618

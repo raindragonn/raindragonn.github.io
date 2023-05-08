@@ -3,7 +3,7 @@ layout: "post"
 title: "[kotlin] kotlin의 상속"
 subtitle: "kotlin 상속"
 date:       2021-04-23
-author: "raindragon"
+author: "raindragonn"
 banner:
   image: "/assets/images/base/banner.jpg"
   opacity: 0.618

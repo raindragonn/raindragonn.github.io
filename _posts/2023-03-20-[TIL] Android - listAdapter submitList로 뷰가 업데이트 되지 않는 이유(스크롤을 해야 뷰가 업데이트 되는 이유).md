@@ -3,7 +3,7 @@ layout: "post"
 title: "[TIL] Android - ListAdapter.submitList로 뷰가 업데이트 되지 않는 이유(스크롤 해야 뷰가 업데이트 되는 이유)"
 subtitle: "Android SetHasStableIds"
 date:       2023-03-20
-author: "raindragon"
+author: "raindragonn"
 banner:
   image: "/assets/images/base/banner.jpg"
   opacity: 0.618

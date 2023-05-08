@@ -3,7 +3,7 @@ layout: "post"
 title: "[TIL] 동기와 비동기, Blocking, Non-Blocking"
 subtitle: "Sync, Async, Blocking, Non-Blocking"
 date:       2021-06-26
-author: "raindragon"
+author: "raindragonn"
 banner:
   image: "/assets/images/base/banner.jpg"
   opacity: 0.618

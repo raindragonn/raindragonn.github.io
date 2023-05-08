@@ -3,7 +3,7 @@ layout: "post"
 title: "[TIL] Android - Paging 3"
 subtitle: "Paging 3"
 date:       2021-07-30
-author: "raindragon"
+author: "raindragonn"
 banner:
   image: "/assets/images/base/banner.jpg"
   opacity: 0.618

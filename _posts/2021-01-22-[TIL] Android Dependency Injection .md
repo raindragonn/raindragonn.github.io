@@ -2,7 +2,7 @@
 layout: "post"
 title: "[TIL] DI,의존성 주입"
 subtitle: "Dependency Injection"
-author: "raindragon"
+author: "raindragonn"
 banner:
   image: "/assets/images/base/banner.jpg"
   opacity: 0.618

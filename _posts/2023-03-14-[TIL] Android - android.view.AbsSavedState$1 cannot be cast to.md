@@ -3,7 +3,7 @@ layout: "post"
 title: "[TIL] Android - android.view.AbsSavedState$1 cannot be cast to 에러"
 subtitle: "AttributeSet"
 date:       2023-03-14
-author: "raindragon"
+author: "raindragonn"
 banner:
   image: "/assets/images/base/banner.jpg"
   opacity: 0.618

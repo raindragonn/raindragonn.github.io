@@ -2,7 +2,7 @@
 layout: "post"
 title: "[kotlin] kotlin 의 변수 및 함수"
 subtitle: "var, val, fun"
-author: "raindragon"
+author: "raindragonn"
 banner:
   image: "/assets/images/base/banner.jpg"
   opacity: 0.618

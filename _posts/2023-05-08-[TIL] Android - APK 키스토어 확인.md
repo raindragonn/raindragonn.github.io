@@ -1,13 +1,13 @@
 ---
 layout: "post"
-title: "[TIL] Android - APK 키스토어 확인"
+title: "[TIL] Android - keystore"
 subtitle: "APK 키스토어 확인"
-date:       2023-05-28
-author: "raindragon"
+date: 2023-05-08
+author: "raindragonn"
 lang: ko
 categories: [TIL - Android]
 tags:
-    - APK
+    - Apk
     - KeyStore
 ---
 
@@ -34,3 +34,4 @@ keytool -list -keystore [확인하고자 하는 키스토어]
 ---
 
 [https://stackoverflow.com/questions/11331469/how-do-i-find-out-which-keystore-was-used-to-sign-an-app](https://stackoverflow.com/questions/11331469/how-do-i-find-out-which-keystore-was-used-to-sign-an-app)
+

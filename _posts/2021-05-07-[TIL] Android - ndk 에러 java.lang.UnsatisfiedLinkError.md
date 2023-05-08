@@ -3,7 +3,7 @@ layout: "post"
 title: "[TIL] Android - ndk 에러 java.lang.UnsatisfiedLinkError"
 subtitle: "java.lang.UnsatisfiedLinkError"
 date:       2021-05-07
-author: "raindragon"
+author: "raindragonn"
 banner:
   image: "/assets/images/base/banner.jpg"
   opacity: 0.618

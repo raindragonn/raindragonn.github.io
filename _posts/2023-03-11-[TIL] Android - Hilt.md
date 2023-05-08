@@ -3,7 +3,7 @@ layout: "post"
 title: "[TIL] Android - Hilt 정리"
 subtitle: "Andoird hilt"
 date:       2023-03-11
-author: "raindragon"
+author: "raindragonn"
 banner:
   image: "/assets/images/base/banner.jpg"
   opacity: 0.618

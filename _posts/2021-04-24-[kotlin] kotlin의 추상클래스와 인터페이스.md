@@ -3,7 +3,7 @@ layout: "post"
 title: "[kotlin] kotlin의 추상클래스, 인터페이스"
 subtitle: "abstract class, interface"
 date:       2021-04-24
-author: "raindragon"
+author: "raindragonn"
 banner:
   image: "/assets/images/base/banner.jpg"
   opacity: 0.618

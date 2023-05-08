@@ -3,7 +3,7 @@ layout: "post"
 title: "[kotlin] kotlin의 다양한 클래스"
 subtitle: "data, Enum, Sealed, Object class"
 date:       2021-04-26
-author: "raindragon"
+author: "raindragonn"
 banner:
   image: "/assets/images/base/banner.jpg"
   opacity: 0.618

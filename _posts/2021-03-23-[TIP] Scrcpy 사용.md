@@ -2,7 +2,7 @@
 layout: "post"
 title: "[Android] Tip - Mac에서 핸드폰 미러링 하기"
 subtitle: "Scrcpy"
-author: "raindragon"
+author: "raindragonn"
 banner:
   image: "/assets/images/base/banner.jpg"
   opacity: 0.618

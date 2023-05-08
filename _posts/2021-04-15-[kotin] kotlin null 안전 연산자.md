@@ -3,7 +3,7 @@ layout: "post"
 title: "[kotlin] kotlin null 안전 연산자"
 subtitle: "null"
 date:       2021-04-15
-author: "raindragon"
+author: "raindragonn"
 banner:
   image: "/assets/images/base/banner.jpg"
   opacity: 0.618

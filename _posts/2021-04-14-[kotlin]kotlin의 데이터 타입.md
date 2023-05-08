@@ -3,7 +3,7 @@ layout: "post"
 title: "[kotlin] kotlin 의 데이터 타입"
 subtitle: "Data type"
 date:       2021-04-14
-author: "raindragon"
+author: "raindragonn"
 banner:
   image: "/assets/images/base/banner.jpg"
   opacity: 0.618

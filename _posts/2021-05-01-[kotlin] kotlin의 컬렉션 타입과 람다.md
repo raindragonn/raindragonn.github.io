@@ -3,7 +3,7 @@ layout: "post"
 title: "[kotlin] 컬렉션 타입과 람다"
 subtitle: "Collection, lambda"
 date:       2021-05-01
-author: "raindragon"
+author: "raindragonn"
 banner:
   image: "/assets/images/base/banner.jpg"
   opacity: 0.618
