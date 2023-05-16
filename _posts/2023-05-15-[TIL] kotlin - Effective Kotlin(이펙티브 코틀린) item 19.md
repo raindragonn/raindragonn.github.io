@@ -1,6 +1,6 @@
 ---
 layout: "post"
-title: "[TIL] Kotlin - Item19 Knowlege를 반복하여 사용하지 말라."
+title: "[TIL] Kotlin - Knowlege를 반복하여 사용하지 말라."
 subtitle: "Effective kotlin - item 19"
 date: 2023-05-15
 author: "raindragonn"
