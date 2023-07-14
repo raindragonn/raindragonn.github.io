@@ -34,7 +34,7 @@ tags:
 
 간단한 원리
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/3ac5b431-d7b2-4107-ba89-43239c4e3c99/Untitled.png)
+![Untitled](/assets/images/post/2023-07-12-1.png)
 
 1. 요청에따른 관련 컨트롤러를 찾아봄
 2. resources를 통해 정적 컨텐츠를 찾아 보여줌
@@ -49,7 +49,7 @@ Model - 데이터에 집중한다.
 
 Controller - 비즈니스 로직에 집중한다.
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/520a04ed-657c-4b28-8227-2ac2a779f535/Untitled.png)
+![Untitled](/assets/images/post/2023-07-12-2.png)
 
 ### API
 
@@ -60,3 +60,4 @@ Controller - 비즈니스 로직에 집중한다.
         - `HttpMessageConverter` 를 통함.
         - 객체의 경우 `MappingJackson2HttpMessageConverter`, 단순 문자의 경우 `StringHttpMessageConverter`로 처리한다.
 - 과거에는 xml로 반환했지만 현재는 일반적으로 json 형태로 반환
+![Untitled](/assets/images/post/2023-07-12-3.png)

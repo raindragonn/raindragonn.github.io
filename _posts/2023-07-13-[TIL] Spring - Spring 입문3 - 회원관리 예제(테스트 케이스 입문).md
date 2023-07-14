@@ -25,7 +25,7 @@ tags:
 
 ### 일반적인 웹 애플리케이션 계층 구조
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/97a830ed-bb44-4f0f-bdc9-086a7c2aa657/Untitled.png)
+![Untitled](/assets/images/post/2023-07-13-1.png)
 
 - 위 서비스는 안드로이드의 유스케이스로 생각하는게 편할것으로 보임
 

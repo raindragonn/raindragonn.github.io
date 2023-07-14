@@ -76,7 +76,7 @@ tags:
         - 파라미터를 통해 진입점을 제공한다.
         - return 값을 통해 뷰리졸버가 Resources의 뷰를 전달(tymeleaf)
 
-![스크린샷 2023-07-11 17.27.49.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/6ee55198-c960-4d6c-88e6-9418b427f693/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA_2023-07-11_17.27.49.png)
+![스크린샷 2023-07-11 17.27.49.png](/assets/images/post/2023-07-11-1.png)
 
 ## 빌드하고 실행하기
 
