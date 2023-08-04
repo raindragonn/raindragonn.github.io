@@ -32,7 +32,7 @@ tags:
 - AOP: Aspect Oriented Programming
 - 공통 관심 사항과 핵심 관심 사항을 분리가 목적
     
-    ![Untitled](../assets/images/post/2023-07-25-1.png)
+    ![Untitled](/assets/images/post/2023-07-25-1.png)
     
 
 ### AOP 적용
@@ -43,6 +43,6 @@ tags:
     - **다만 `@Bean`  을 사용하는 경우 순환참조 문제가 발생할 수 있는데 그 이유는 `@Around` 로 지정하는 범위에 AOP를 생성(SpringConfig)하는 코드가 있을 때에 발생한다. (AOP를 사용해서 자기자신을 생성하는건 말이 안된다.)**
     - @Around에서 범위를 지정할 때 해당 파일은 사용하지 않도록 하면 괜찮다
 
-![Untitled](../assets/images/post/2023-07-25-2.png)
+![Untitled](/assets/images/post/2023-07-25-2.png)
 
 - `joinPoing.proceed()` 실제 구현부가 실행된다.
