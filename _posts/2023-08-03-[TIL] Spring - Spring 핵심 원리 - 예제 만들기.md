@@ -29,7 +29,7 @@ tags:
 
 ## 회원 도메인 설계
 
-![Untitled](../assets/images/post/2023-08-03-예제-1.png)
+![Untitled](/assets/images/post/2023-08-03-예제-1.png)
 
 ## 회원 도메인 실행과 테스트
 
@@ -51,7 +51,7 @@ tags:
 
 ### **주문 도메인 협력, 역할, 책임**
 
-![Untitled](../assets/images/post/2023-08-03-예제-2.png)
+![Untitled](/assets/images/post/2023-08-03-예제-2.png)
 
 1. 주문생성: 클라이언트는 주문 서비스에 주문 생성을 요청한다.
 2. 회원조회: 할인을 위해서는 회원 등급이 필요하기에 주문 서비스는 회원 저장소에서 회원을 조회한다.
@@ -60,25 +60,25 @@ tags:
 
 ### 주문 도메인 전체
 
-![Untitled](../assets/images/post/2023-08-03-예제-3.png)
+![Untitled](/assets/images/post/2023-08-03-예제-3.png)
 
 - 역할과 구현을 분리해서 구현 객체를 조립할 수 있도록 설계
     - 회원 저장소 및 할인 정책도 유연하게 변경할 수 있다.
 
 ### 주문 도메인 클래스 다이어그램
 
-![Untitled](../assets/images/post/2023-08-03-예제-4.png)
+![Untitled](/assets/images/post/2023-08-03-예제-4.png)
 
 ### 주문 도메인 객체 다이어그램1
 
-![Untitled](../assets/images/post/2023-08-03-예제-5.png)
+![Untitled](/assets/images/post/2023-08-03-예제-5.png)
 
 - 회원을 메모리에서 조회하고, 정액 할인 정책(고정 금액)을 지원해도 주문 서비스를 변경하지 않아도 된다.
 - **역할들의 협력 관계를 그대로 재사용할 수 있다.**
 
 ### 주문 도메인 객체 다이어그램2
 
-![Untitled](../assets/images/post/2023-08-03-예제-6.png)
+![Untitled](/assets/images/post/2023-08-03-예제-6.png)
 
 - 회원을 메모리가 아닌 실제 DB에서 조회하고 정률 할인 정책(주문 금액에 따라 가변 할인)을 지원해도 주문서비스를 변경하지 않아도 된다.
 - **역할들의 협력 관계를 그대로 재사용할 수 있다.**
