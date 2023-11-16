@@ -1,8 +1,10 @@
+@use "sass:math";
+
 /*
  * Post menu
  */
 
-.post-menu {
+ .post-menu {
   padding-left: 20px;
   min-width: 200px;
   max-width: 230px;

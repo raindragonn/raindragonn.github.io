@@ -1,7 +1,8 @@
+@use "sass:math";
 /**
  * Animation for transparent header
  */
-html {
+ html {
   &[data-header-transparent] {
     header.site-header {
       position: fixed;
