@@ -17,6 +17,8 @@ tags:
 
 새롭게 출시할 앱은 앱 내에서 검색 기능도 추가할 겸 Youtube Data Api를 사용하는 방법을 알아보았다.
 
+해당 기능은 물론 `Retrofit`과 같은 HTTP 통신을 통해서도 검색이 가능하지만 [Quick Starter](https://developers.google.com/youtube/v3/quickstart/android?hl=ko) 를 기반으로 작성했다.
+
 ## Youtube Data API
 
 - Youtube 웹사이트에서 일반적으로 실행되는 기능을 웹 혹은 앱에서 사용할 수 있다.
