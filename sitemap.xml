@@ -15,4 +15,16 @@ layout: null
         {% endif %}
     </url>
     {% endfor %}
+    <url>
+        <loc>{{ site.url }}/archives.html</loc>
+    </url>
+    <url>
+        <loc>{{ site.url }}/categories.html</loc>
+    </url>
+    <url>
+        <loc>{{ site.url }}/tags.html</loc>
+    </url>
+    <url>
+        <loc>{{ site.url }}/about.html</loc>
+    </url>
 </urlset>
