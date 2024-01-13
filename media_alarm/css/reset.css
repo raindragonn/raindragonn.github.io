@@ -1,0 +1,59 @@
+/* Reset CSS */
+body, h1, h2, h3, h4, h5, h6, p, blockquote, pre, figure, dl, dd, ol, ul, fieldset, legend {
+    margin: 0;
+    padding: 0;
+}
+
+
+/* 미디어 쿼리 추가 */
+
+/* 화면 너비가 600px 이하일 때 */
+@media screen and (max-width: 600px) {
+    html {
+        box-sizing: border-box;
+        font-size: 10px;
+    }
+}
+
+/* 화면 너비가 601px 이상일 때 */
+@media screen and (min-width: 601px) {
+    html {
+        box-sizing: border-box;
+        font-size: 20px;
+    }
+}
+
+*, *::before, *::after {
+    box-sizing: inherit;
+}
+
+ul, ol {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+img {
+    height: auto;
+}
+
+input, button, textarea, select {
+    margin: 0;
+    font: inherit;
+}
+
+button {
+    overflow: visible;
+}
+
+table {
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+
+body {
+    line-height: 1.5;
+}

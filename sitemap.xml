@@ -27,4 +27,7 @@ layout: null
     <url>
         <loc>{{ site.url }}/about.html</loc>
     </url>
+    <url>
+        <loc>{{ site.url }}/media_alarm</loc>
+    </url>
 </urlset>
