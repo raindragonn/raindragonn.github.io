@@ -23,6 +23,7 @@
 .store-image {
   width: 20%;
 }
+
 @media screen and (max-width: 600px) {
     .store-image {
         width: 40%;
@@ -59,4 +60,16 @@ footer {
 }
 
 
+.image-container {
+  display: flex;
+  justify-content: space-around; /* 간격 조정 */
+  align-items: center;
+  margin: 20px;
+}
 
+.image-container img {
+  width: 200px; /* 이미지 너비 */
+  height: auto; /* 비율 유지 */
+  border: 2px solid #ccc; /* 테두리 */
+  border-radius: 10px; /* 둥근 모서리 */
+}
